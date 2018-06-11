@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">HIT_APP</string>
+
+    <!-- Strings related to login -->
+    <string name="login_s">"登录"</string>
+    <string name="regi_s">"注册"</string>
+    <string name="hit">"哈尔滨工业大学"</string>
+    <string name="pro_name">"课堂辅助系统"</string>
+    <string name="user_name">"用户名:"</string>
+    <string name="pass_wd">"密码:"</string>
+    <string name="us_hint">"请输入学号"</string>
+    <string name="pass_hint">"请输入密码"</string>
+    <string name="pass_re">"请再次输入密码"</string>
+    <string name="camera_button">"拍照"</string>
+    <string name="recam">"重拍"</string>
+    <string name="group">群组</string>
+    <string name="individual">个人</string>
+    <string name="title_activity_drawer_activity">drawer_activity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_asd">asd</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="All_Class">当前班级</string>
+    <string name="claspas_hint">请输入当前班级密码</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_cls_select">cls_select</string>
+    <string name="set_pass">请设定班级密码</string>
+    <string name="ok">确认</string>
+    <string name="title_activity_clas_main">clas_main</string>
+</resources>
